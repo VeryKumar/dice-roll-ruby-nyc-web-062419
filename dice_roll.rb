@@ -1,3 +1,3 @@
 def roll
-  
+  rand
 end
